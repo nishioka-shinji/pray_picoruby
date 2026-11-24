@@ -1,6 +1,6 @@
 # 手持ちの部品
 
-Freenove Basic Starter Kit for Raspberry Pi Pico（Amazon B09XHTHZ8N）を使っている。チュートリアルとコードは `~/Downloads/Freenove_Basic_Starter_Kit_for_Raspberry_Pi_Pico-main/` にダウンロード済み。
+Freenove Basic Starter Kit for Raspberry Pi Pico（型番 FNK0064A、Amazon B09XHTHZ8N）を使っている。Pico は無線なしの無印。チュートリアルとコードは `~/Downloads/Freenove_Basic_Starter_Kit_for_Raspberry_Pi_Pico-main/` にダウンロード済み。
 
 ## 部品
 
