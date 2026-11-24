@@ -31,17 +31,6 @@ Freenove Basic Starter Kit for Raspberry Pi Pico（型番 FNK0064A、Amazon B09X
 | ピン配置カード / ステッカー | 各1 | |
 | 抵抗カラーコード表 | 1 | |
 
-## 今の配線
+## 配線
 
-配線図: [ブザー 2 個の配線図](https://claude.ai/artifact/FzHFrkFKgtidkdunJsu1SE)
-
-| 部品 | 穴 | 繋がる先 |
-|---|---|---|
-| 赤ワイヤー | a20 – a25 | GP15 ↔ ブザー 1 ＋ |
-| 黒ワイヤー | a18 – a28 | GND ↔ ブザー 1 − |
-| ブザー 1 | e25 / e28 | ＋ / − |
-| 橙ワイヤー | a17 – a32 | GP13 ↔ ブザー 2 ＋ |
-| 灰ワイヤー | b18 – b35 | GND ↔ ブザー 2 − |
-| ブザー 2 | e32 / e35 | ＋ / − |
-
-- GP14 は GP15 と同じ PWM スライスなので、2 個目のブザーは別スライスの GP13 に繋いでいる
+今の配線と過去の配線図は `notes/wiring-diagrams.md` を見る。
